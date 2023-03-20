@@ -1,0 +1,53 @@
+
+/* #626262 */
+
+/* #4C4C4E */
+ 
+/* #444245 */
+
+/* #030000 */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #3f3f3f;
+}
+
+nav{
+    box-shadow: 0 0 20px 10px rgb(0,0,0,0.2);
+    text-align: left;
+    background-color:#030000 ;
+    box-shadow: 0 0 20px 10px rgb(0,0,0,0.2);
+}
+
+
+h1 {
+    color: rgb(181, 212, 1);
+}
+
+h2 {
+    background-color: #4C4C4E;
+}
+
+img{
+    width: 35rem;
+    height: 35rem;
+    border-radius: 100%;
+    box-shadow: 0 0 20px 10px rgb(0,0,0,0.2);
+}
+
+img:hover{
+    width: 35rem;
+    height: 35rem;
+    border-radius: 100%;
+    box-shadow: 0 0 20px 10px rgb(0,0,0,0.2);
+}
+
+.image-container {
+    text-align: center;
+}
+
+#logo {
+    color: white;
+    padding: .5rem 1.5rem 0rem 1.5rem;
+}
